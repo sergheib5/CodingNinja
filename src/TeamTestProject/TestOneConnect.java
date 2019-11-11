@@ -1,0 +1,10 @@
+package TeamTestProject;
+
+import javax.sound.midi.Soundbank;
+
+public class TestOneConnect {
+    public static void main(String[] args) {
+        System.out.println("Serghei connected");
+
+    }
+}
