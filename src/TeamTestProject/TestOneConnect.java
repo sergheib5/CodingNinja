@@ -10,7 +10,6 @@ public class TestOneConnect {
         System.out.println("two");
         System.out.println("Makmal connected");
         System.out.println("three");
-        System.out.println("tester");
-        System.out.println("at the same time, berfu is pushing");
+
     }
 }
