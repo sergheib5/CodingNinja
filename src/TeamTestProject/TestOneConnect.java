@@ -8,5 +8,7 @@ public class TestOneConnect {
         System.out.println("one");
         System.out.println("Berfu connected");
         System.out.println("two");
+        System.out.println("Makmal connected");
+        System.out.println("three");
     }
 }
