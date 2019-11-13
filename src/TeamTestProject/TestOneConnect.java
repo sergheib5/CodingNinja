@@ -14,5 +14,6 @@ public class TestOneConnect {
         System.out.println("HI");
         System.out.println("hellooo");
         System.out.println("stashing");
+        System.out.println("Makmal stashin");
     }
 }
