@@ -11,5 +11,6 @@ public class TestOneConnect {
         System.out.println("Makmal connected");
         System.out.println("three");
         System.out.println("ahahhah");
+        System.out.println("HI");
     }
 }
