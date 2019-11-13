@@ -10,4 +10,6 @@ public class TestOneConnect {
         System.out.println("two");
         System.out.println("Makmal connected");
         System.out.println("three");
+        System.out.println("ahahhah");
+    }
 }
